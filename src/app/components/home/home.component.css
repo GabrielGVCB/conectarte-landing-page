@@ -1,0 +1,33 @@
+
+
+.headline {
+  width: 1092px;
+  margin-top: 200px;
+  border-radius: 10px;
+  border: 1px;
+  display: flex;
+  align-items: center;
+  margin: auto;
+  gap: 77px;
+  margin-bottom: 157px;
+  background-color: #8f6338;
+}
+
+.imagem {
+  padding: 40px;
+  border: 2px solid #685038 ;
+  margin-right: 40px;
+  border-radius: 4px;
+}
+
+.text {
+  background-color: #685038;
+  opacity: 0.;
+  color: rgba(252, 252, 252);
+  font-size: 30px;
+  margin: auto auto auto 40px;
+  padding: 40px;
+  font-family: 'Kanit', 'sans-serif';
+  font-weight: 500;
+}
+
