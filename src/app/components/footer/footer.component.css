@@ -1,0 +1,42 @@
+.social-media-buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    padding: 10px;
+}
+
+.social-media-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    text-decoration: none;
+}
+
+.social-media-buttons :hover {
+    transform: scale(1.2);
+    transition: all 0.5s;
+}
+
+.social-media-button img {
+    background-color: transparent;
+}
+
+.facebook {
+    background-color: #685038;
+}
+
+.twitter {
+    background-color: #685038;
+}
+
+.instagram {
+    background-color: #685038;
+}
+
+.linkedin {
+    background-color: #685038;
+}
